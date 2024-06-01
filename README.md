@@ -1,12 +1,16 @@
 # KISMETtakk  🥷    
 
 
-**Digital Craftsman (Developer/Creator)**
+**`Digital Craftsman (Developer/Creator)`**
 
 
 I'm a Computer Science student at Tshwane University of Technology. Welcome to my GitHub profile!
 
 ## 👤 About Me
+
+I am an indie full-stack developer and content creator building my version of the digital world one step at a time. All my
+coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with
+code.
 
 - 🎓 I'm currently pursuing my degree in Computer Science.
 - 💻 I'm passionate about software development, particularly in [Java, Kotlin, JavaScript].
