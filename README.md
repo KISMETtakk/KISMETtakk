@@ -1,4 +1,4 @@
-# KISMETtakk  🥷    
+# KISMETtakk      
 
 
 **`Digital Craftsman (Developer/Creator)`**
